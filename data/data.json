@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "name": "Gordon Ramsay",
+        "yearsOfExperience": 30,
+        "bio": "A British chef and television personality, known for his fiery personality and Michelin-starred restaurants. He has appeared in various cooking shows, including 'Hell's Kitchen' and 'MasterChef'",
+        "likes": "15 million",
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Beef Wellington",
+                "description": "Tender fillet of beef with a crusty, flaky pastry",
+                "rating": 5,
+                "cookingMethod": "Grilling",
+                "ingredients": [
+                    {
+                        "id": 1,
+                        "name": "beef fillet"
+                    },
+                    {
+                        "id": 2,
+                        "name": "puff pastry"
+                    },
+                    {
+                        "id": 3,
+                        "name": "mushrooms"
+                    },
+                    {
+                        "id": 4,
+                        "name": "prosciutto"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Chickpeas"
+                    }
+                ],
+                "imageUrl": "https://example.com/gordon-ramsay/beef-wellington.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Lobster Risotto",
+                "description": "Creamy, decadent risotto with chunks of fresh lobster",
+                "rating": 4,
+                "cookingMethod": "Boiling",
+                "ingredients": [
+                    {
+                        "id": 6,
+                        "name": "arborio rice"
+                    },
+                    {
+                        "id": 7,
+                        "name": "lobster meat"
+                    },
+                    {
+                        "id": 8,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 9,
+                        "name": "parmesan cheese"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Tempeh"
+                    }
+                ],
+                "imageUrl": "https://example.com/gordon-ramsay/lobster-risotto.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Sticky Toffee Pudding",
+                "description": "Warm, gooey cake with a rich toffee sauce",
+                "rating": 4.5,
+                "cookingMethod": "Steaming",
+                "ingredients": [
+                    {
+                        "id": 11,
+                        "name": "dates"
+                    },
+                    {
+                        "id": 12,
+                        "name": "butter"
+                    },
+                    {
+                        "id": 13,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 14,
+                        "name": "brown sugar"
+                    },
+                    {
+                        "id": 15,
+                        "name": "Lentils"
+                    }
+                ],
+                "imageUrl": "https://example.com/gordon-ramsay/sticky-toffee-pudding.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Jamie Oliver",
+        "yearsOfExperience": 25,
+        "bio": "An American chef and author, known for her popular cookbook 'Mastering the Art of French Cooking'. He introduced French cuisine to Americans through her cooking show 'The French Chef' in the 1960s",
+        "likes": "10 million",
+        "recipes": [
+            {
+                "id": 4,
+                "name": "Roast Chicken",
+                "description": "Simple, juicy roasted chicken with herbs and lemon",
+                "rating": 3.8,
+                "cookingMethod": "Roasting",
+                "ingredients": [
+                    {
+                        "id": 16,
+                        "name": "whole chicken"
+                    },
+                    {
+                        "id": 17,
+                        "name": "lemon"
+                    },
+                    {
+                        "id": 18,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 19,
+                        "name": "rosemary"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kidney beans"
+                    }
+                ],
+                "imageUrl": "https://example.com/jamie-oliver/roast-chicken.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Spaghetti Carbonara",
+                "description": "Classic pasta dish with pancetta, eggs, and cheese",
+                "rating": 4.2,
+                "cookingMethod": "Baking",
+                "ingredients": [
+                    {
+                        "id": 21,
+                        "name": "spaghetti"
+                    },
+                    {
+                        "id": 22,
+                        "name": "pancetta"
+                    },
+                    {
+                        "id": 23,
+                        "name": "eggs"
+                    },
+                    {
+                        "id": 24,
+                        "name": "pecorino cheese"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Sour cream"
+                    }
+                ],
+                "imageUrl": "https://example.com/jamie-oliver/spaghetti-carbonara.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Fish and Chips",
+                "description": "Crispy battered fish with chunky fries",
+                "rating": 5,
+                "cookingMethod": "Frying",
+                "ingredients": [
+                    {
+                        "id": 26,
+                        "name": "cod fillet"
+                    },
+                    {
+                        "id": 27,
+                        "name": "potatoes"
+                    },
+                    {
+                        "id": 28,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 29,
+                        "name": "beer"
+                    },
+                    {
+                        "id": 30,
+                        "name": "Lima beans"
+                    }
+                ],
+                "imageUrl": "https://example.com/jamie-oliver/fish-and-chips.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Nigella Lawson",
+        "yearsOfExperience": 20,
+        "bio": "An Italian chef and restaurateur, known for his restaurant Osteria Francescana, which has been ranked as the best restaurant in the world. He is also known for his innovative and creative approach to Italian cuisine",
+        "likes": "1 million",
+        "recipes": [
+            {
+                "id": 7,
+                "name": "Chocolate Cake",
+                "description": "Rich, moist chocolate cake with a decadent frosting",
+                "rating": 4,
+                "cookingMethod": "Broiling",
+                "ingredients": [
+                    {
+                        "id": 31,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 32,
+                        "name": "sugar"
+                    },
+                    {
+                        "id": 33,
+                        "name": "cocoa powder"
+                    },
+                    {
+                        "id": 34,
+                        "name": "eggs"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Sour cream"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Linguine with Clams",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 3.9,
+                "cookingMethod": "Simmering",
+                "ingredients": [
+                    {
+                        "id": 36,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 37,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 38,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 39,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Macadamia nuts"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            },
+            {
+                "id": 9,
+                "name": "Roast Beef with Yorkshire Puddings",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 4.7,
+                "cookingMethod": "Stir-frying",
+                "ingredients": [
+                    {
+                        "id": 41,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 42,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 43,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 44,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 45,
+                        "name": "Pistachios"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Bobby Flay",
+        "yearsOfExperience": 25,
+        "bio": "An American chef and restaurateur, known for her focus on locally sourced and sustainable ingredients. She is the owner of Chez Panisse, a renowned restaurant in Berkeley, California",
+        "likes": "2 million",
+        "recipes": [
+            {
+                "id": 10,
+                "name": "Grilled Steak",
+                "description": "Rich, moist chocolate cake with a decadent frosting",
+                "rating": 4,
+                "cookingMethod": "Smoking",
+                "ingredients": [
+                    {
+                        "id": 46,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 47,
+                        "name": "sugar"
+                    },
+                    {
+                        "id": 48,
+                        "name": "cocoa powder"
+                    },
+                    {
+                        "id": 49,
+                        "name": "eggs"
+                    },
+                    {
+                        "id": 50,
+                        "name": "Yogurt"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
+            },
+            {
+                "id": 11,
+                "name": "Takos al Pastor",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 5,
+                "cookingMethod": "Sous vide",
+                "ingredients": [
+                    {
+                        "id": 51,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 52,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 53,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 54,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 55,
+                        "name": "Sunflower seeds"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            },
+            {
+                "id": 12,
+                "name": "Margarite Chicken",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 4,
+                "cookingMethod": "Pressure cooking",
+                "ingredients": [
+                    {
+                        "id": 56,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 57,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 58,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 59,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 60,
+                        "name": "Sesame seeds"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1565608087341-404b25492fee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Ina Garten",
+        "yearsOfExperience": 30,
+        "bio": "An American chef, author, and television personality, known for his travel and food shows, including 'No Reservations' and 'Parts Unknown'. He was also an advocate for culinary diversity and exploration",
+        "likes": "1 million",
+        "recipes": [
+            {
+                "id": 13,
+                "name": "Roast Chicken",
+                "description": "Rich, moist chocolate cake with a decadent frosting",
+                "rating": 3,
+                "cookingMethod": "Poaching",
+                "ingredients": [
+                    {
+                        "id": 61,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 62,
+                        "name": "sugar"
+                    },
+                    {
+                        "id": 63,
+                        "name": "cocoa powder"
+                    },
+                    {
+                        "id": 64,
+                        "name": "eggs"
+                    },
+                    {
+                        "id": 65,
+                        "name": "Caraway seeds"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
+            },
+            {
+                "id": 14,
+                "name": "Apple Pie",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 3.8,
+                "cookingMethod": "Micro waving",
+                "ingredients": [
+                    {
+                        "id": 66,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 67,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 68,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 69,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 70,
+                        "name": "Mustard seeds"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            },
+            {
+                "id": 15,
+                "name": "Chocolate Cake",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 4.8,
+                "cookingMethod": "Slow cooking",
+                "ingredients": [
+                    {
+                        "id": 71,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 72,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 73,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 74,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 75,
+                        "name": "Cardamom"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            }
+        ],
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Anthony Bourdain",
+        "yearsOfExperience": 20,
+        "bio": "A British chef and restaurateur, known for his experimental and scientific approach to cooking. He is the owner of The Fat Duck, a three-Michelin-starred restaurant in Bray, England, and has also appeared in various cooking shows",
+        "likes": "50 million",
+        "recipes": [
+            {
+                "id": 16,
+                "name": "Beef Bourguignon",
+                "description": "Rich, moist chocolate cake with a decadent frosting",
+                "rating": 4.2,
+                "cookingMethod": "Braising",
+                "ingredients": [
+                    {
+                        "id": 76,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 77,
+                        "name": "sugar"
+                    },
+                    {
+                        "id": 78,
+                        "name": "cocoa powder"
+                    },
+                    {
+                        "id": 79,
+                        "name": "eggs"
+                    },
+                    {
+                        "id": 80,
+                        "name": "Cinnamon"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
+            },
+            {
+                "id": 17,
+                "name": "Coq au Vin",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 5,
+                "cookingMethod": "Blanching",
+                "ingredients": [
+                    {
+                        "id": 81,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 82,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 83,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 84,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 85,
+                        "name": "Chili powder"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            },
+            {
+                "id": 18,
+                "name": "Ouefs en Meurette",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 4.2,
+                "cookingMethod": "Boiling",
+                "ingredients": [
+                    {
+                        "id": 86,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 87,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 88,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 89,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 90,
+                        "name": "Cloves"
+                    }
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    }
+]
